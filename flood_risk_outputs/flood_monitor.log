@@ -1,0 +1,118 @@
+2025-05-16 03:49:29,308 - INFO - Created 3 records
+2025-05-16 03:49:33,299 - INFO - Email alert sent successfully
+2025-05-16 03:57:46,094 - INFO - Created 3 records
+2025-05-16 03:57:50,908 - INFO - Email alert sent successfully
+2025-05-16 04:12:07,170 - INFO - Created 3 records
+2025-05-16 04:12:12,291 - INFO - Sent multi-level flood alert (Risk: 2.4)
+2025-05-16 09:04:49,080 - INFO - Created 3 records
+2025-05-16 09:30:41,102 - ERROR - API request failed: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=3.05)
+2025-05-16 09:50:44,957 - INFO - Created 164 records
+2025-05-16 09:50:50,118 - INFO - Sent multi-level flood alert (Risk: 2.8)
+2025-05-16 10:30:02,371 - INFO - Created 1 records
+2025-05-16 16:01:59,716 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:01:59,717 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:01:59,877 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:07:01,752 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:07:01,752 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:07:01,833 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:12:03,685 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:12:03,686 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:12:03,762 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:17:05,622 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:17:05,622 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:17:05,699 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:22:07,534 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:22:07,535 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:22:07,635 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:27:09,465 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:27:09,465 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:27:09,541 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:32:12,127 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:32:12,128 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:32:12,202 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:37:14,129 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:37:14,129 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:37:14,204 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:42:16,050 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:42:16,052 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:42:16,129 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:47:17,976 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:47:17,977 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:47:18,049 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:52:19,899 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:52:19,900 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:52:19,973 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 16:57:21,830 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 16:57:21,830 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 16:57:21,902 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+    save_risk_zones(risk_zones, output_path)
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 17:02:23,681 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 17:02:23,682 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 17:02:23,756 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 17:04:04,825 - INFO - Created 3 records
+2025-05-16 17:04:07,858 - INFO - Sent multi-level flood alert (Risk: 2.4)
+2025-05-16 17:07:25,893 - INFO - GDAL signalled an error: err_no=4, msg='path/to/elevation.tif: No such file or directory'
+2025-05-16 17:07:25,894 - WARNING - Could not load elevation data: path/to/elevation.tif: No such file or directory
+2025-05-16 17:07:26,087 - ERROR - Processing cycle failed: name 'save_risk_zones' is not defined
+Traceback (most recent call last):
+  File "E:\EJECT\Flood_Alert_System\Automation\a_Precipitation.py", line 233, in <module>
+NameError: name 'save_risk_zones' is not defined
+2025-05-16 18:13:43,888 - ERROR - Flood risk processing failed: name 'pd' is not defined
+2025-05-16 18:40:07,310 - INFO - Starting Flood Monitoring Script
+2025-05-16 18:40:07,311 - INFO - Starting cycle at 2025-05-16 18:40:07
+2025-05-16 18:40:09,095 - INFO - Rainfall data fetched
+2025-05-16 18:40:09,219 - INFO - Created 3 records
+2025-05-16 18:40:09,219 - INFO - Saved output to flood_risk_outputs\flood_risk_20250516_184007.geojson
+2025-05-16 18:40:13,380 - INFO - Email alert sent for risk area of 0.00 km²
+2025-05-16 18:40:14,020 - INFO - Telegram alert sent successfully
+2025-05-16 18:40:14,021 - INFO - Next update in 3 hours
