@@ -4,3 +4,4 @@ pandas
 folium
 streamlit-folium
 branca
+geopandas
